@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+/blogdown
+.DS_Store # if a windows user, Thumbs.db instead
+Thumbs.db
+.hugo_build.lock
+public/ # if using Netlify
