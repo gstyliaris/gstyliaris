@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: https://gstyliaris.netlify.app/
 languageCode: en-US
 title: A Hugo website
 theme: "theme-academic-cv"
