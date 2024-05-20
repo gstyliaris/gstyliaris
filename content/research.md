@@ -74,7 +74,7 @@ Dual-unitary circuits have emerged as a rich model of quantum dynamics. While th
 
 No realistic quantum system is perfectly isolated. Fortunately, it turns out that the ideas of dual-unitarity can be extended to the realm of open systems. Here we explore how, by postulating the analogous symmetry between space and time, *solvability is extended to quantum channels*.
 
-These ideas allows to define a nontrivial subclass of PEPS with solvable correlation functions.
+The same ideas allow to define a nontrivial subclass of 2D tensor-network states with exactly solvable single and 2-body correlation functions. The connection can be understood by interpreting the tensor-network contraction as evolution over the virtual space.
 
 </br>
 
