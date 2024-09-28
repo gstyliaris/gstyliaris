@@ -27,7 +27,7 @@ The problem of state preparation is evidently motivated by the *practical need* 
 
 *   *Characterizing MPS and PEPS Preparable via Measurement and Feedback,*  
     Zhang, Gopalakrishnan, **Styliaris**
-    [\[arXiv (2024)\]](https://doi.org/10.48550/arXiv.2405.09615)
+    [\[PRX Quantum (2024)\]](https://doi.org/10.48550/arXiv.2405.09615)
 
 
 </br>
@@ -41,7 +41,7 @@ The problem of state preparation is evidently motivated by the *practical need* 
 
 *   *Preparation of Matrix Product States with Log-Depth Quantum Circuits,*  
     Malz<sup>\*</sup>, **Styliaris<sup>\*</sup>**, Wei<sup>\*</sup>, Cirac [\[PRL (2024)\]](https://doi.org/10.1103/PhysRevLett.132.040404)
-    [\[Talk at TQC 2024 @OIST\]](https://tqc-conference.org/talks2024/)
+    [\[Talk at TQC 2024 @OIST\]](https://www.youtube.com/watch?v=kIUDV3AvuiM&t=3600s)
     
 </br>
 
@@ -84,7 +84,7 @@ The same ideas allow to define a nontrivial subclass of 2D tensor-network states
 </br>
 
 *   *Dual-isometric Projected Entangled Pair States,*  
-    Yu, Cirac, Kos<sup>*</sup>, **Styliaris<sup>\*</sup>** [\[arXiv (2024)\]](https://doi.org/10.48550/arXiv.2404.16783)
+    Yu, Cirac, Kos<sup>*</sup>, **Styliaris<sup>\*</sup>** [\[PRL (2024)\]](https://doi.org/10.48550/arXiv.2404.16783)
     
 </br>
 
@@ -98,7 +98,7 @@ The same ideas allow to define a nontrivial subclass of 2D tensor-network states
 
 </br>
 
-## Theory of Tensor Networks
+## Theory of tensor networks
 
 <figure>
   <img src="/TN.png" alt="image" width="500" height="auto">
@@ -115,6 +115,13 @@ The many-body Hilbert space is large, as it grows *exponentially* with the numbe
 
 ### Selected Publications:
 
+</br>
+
+*   *Matrix-product unitaries: Beyond quantum cellular automata,*  
+    **Styliaris**, Trivedi, Pérez-García, Cirac [\[arXiv (2024)\]](https://doi.org/10.48550/arXiv.2406.10195)
+
+</br>
+
 *   *Typical Correlation Length of Sequentially Generated Tensor Network States,*  
     Haag, Baccari, **Styliaris** [\[PRX Quantum (2023)\]](https://doi.org/10.1103/PRXQuantum.4.030330)
 
@@ -125,7 +132,7 @@ The many-body Hilbert space is large, as it grows *exponentially* with the numbe
 </br>
 
 
-## Quantum Information Theory
+## Quantum information theory & Quantum computing
 
 <figure>
   <img src="/monotones_BW.png" alt="image" width="600" height="auto">
@@ -140,6 +147,11 @@ Quantum information offers a *powerful language* for understanding quantum pheno
 </br>
 
 ### Selected Publications:
+
+</br>
+
+*   *Accuracy guarantees and quantum advantage in analogue open quantum simulation with and without noise,*  
+    Kashyap, **Styliaris**, Mouradian, Cirac, Trivedi [\[arXiv (2024)\]](https://doi.org/10.48550/arXiv.2404.11081)
 
 </br>
 
