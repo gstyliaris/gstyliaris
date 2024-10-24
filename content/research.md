@@ -27,14 +27,14 @@ The problem of state preparation is evidently motivated by the *practical need* 
 
 *   *Characterizing MPS and PEPS Preparable via Measurement and Feedback,*  
     Zhang, Gopalakrishnan, **Styliaris**
-    [\[PRX Quantum (2024)\]](https://doi.org/10.48550/arXiv.2405.09615)
+    [\[PRX Quantum (2024)\]](https://doi.org/10.1103/PRXQuantum.5.040304)
 
 
 </br>
 
 *   *Approximating many-body quantum states with quantum circuits and measurements,*  
     Piroli, **Styliaris**, Cirac
-    [\[arXiv (2024)\]](https://doi.org/10.48550/arXiv.2403.07604)
+    [\[PRL (2024)\]](https://journals.aps.org/prl/accepted/8f07aY05E9e18f84042543493780b9c85f774fc18)
 
 
 </br>
@@ -84,7 +84,7 @@ The same ideas allow to define a nontrivial subclass of 2D tensor-network states
 </br>
 
 *   *Dual-isometric Projected Entangled Pair States,*  
-    Yu, Cirac, Kos<sup>*</sup>, **Styliaris<sup>\*</sup>** [\[PRL (2024)\]](https://doi.org/10.48550/arXiv.2404.16783)
+    Yu, Cirac, Kos<sup>*</sup>, **Styliaris<sup>\*</sup>** [\[PRL (2024)\]](https://journals.aps.org/prl/accepted/33071Y7cFd81329590089116f7a025c305b9efdc0)
     
 </br>
 
