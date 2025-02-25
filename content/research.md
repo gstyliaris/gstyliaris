@@ -22,6 +22,11 @@ The problem of state preparation is evidently motivated by the *practical need* 
 
 ### Selected Publications:
 
+</br>
+
+*   *Phases of Matrix Product States with Symmetric Quantum Circuits and Symmetric Measurements with Feedforward,*  
+    Gunn, **Styliaris**, Kraft, Kraus
+    [\[PRB (2025)\]](https://journals.aps.org/prb/accepted/b507cDdeA6b1910000c96b65ac150201fc7292425)
 
 </br>
 
@@ -42,13 +47,6 @@ The problem of state preparation is evidently motivated by the *practical need* 
 *   *Preparation of Matrix Product States with Log-Depth Quantum Circuits,*  
     Malz<sup>\*</sup>, **Styliaris<sup>\*</sup>**, Wei<sup>\*</sup>, Cirac [\[PRL (2024)\]](https://doi.org/10.1103/PhysRevLett.132.040404)
     [\[Talk at TQC 2024 @OIST\]](https://www.youtube.com/watch?v=kIUDV3AvuiM&t=3600s)
-    
-</br>
-
-
-*   *Phases of Matrix Product States with Symmetric Quantum Circuits and Symmetric Measurements with Feedforward,*  
-    Gunn, **Styliaris**, Kraft, Kraus
-    [\[arXiv (2023)\]](https://doi.org/10.48550/arXiv.2312.13838)
   
 </br>
 
@@ -56,42 +54,6 @@ The problem of state preparation is evidently motivated by the *practical need* 
     Piroli, **Styliaris**, Cirac [\[PRL (2021)\]](https://doi.org/10.1103/PhysRevLett.127.220503)
      [\[Talk at QIP 2022 @Caltech\]](https://youtu.be/mct_FB3O-Ms?si=vyQbgSB3A_uF7tLR)
      
-</br>
-
-----
-</br>
-
-## Exactly solvable quantum states and dynamics
-
-<figure>
-  <img src="/Space_time.png" alt="image" width="700" height="auto">
-  <figcaption>A quantum circuit of space-time quantum channels. Figure from <a href="https://doi.org/10.22331/q-2023-05-24-1020">Quantum (2023)</a>.</figcaption>
-</figure>
-
-</br>
-
-Dual-unitary circuits have emerged as a rich model of quantum dynamics. While this class includes both *integrable and chaotic* models, it allows for the analytical solution of *correlation functions*. The defining property of these circuits is that, when the role of *space and time is exchanged*, the corresponding evolution remains physical, i.e., unitary.
-
-No realistic quantum system is perfectly isolated. Fortunately, it turns out that the ideas of dual-unitarity can be extended to the realm of open systems. Here we explore how, by postulating the analogous symmetry between space and time, *solvability is extended to quantum channels*.
-
-The same ideas allow to define a nontrivial subclass of 2D tensor-network states with exactly solvable single and 2-body correlation functions. The connection can be understood by interpreting the tensor-network contraction as evolution over the virtual space.
-
-</br>
-
-### Selected Publications:
-
-
-</br>
-
-*   *Dual-isometric Projected Entangled Pair States,*  
-    Yu, Cirac, Kos<sup>*</sup>, **Styliaris<sup>\*</sup>** [\[PRL (2024)\]](https://journals.aps.org/prl/accepted/33071Y7cFd81329590089116f7a025c305b9efdc0)
-    
-</br>
-
-*   *Circuits of space and time quantum channels,*  
-    Kos<sup>*</sup>, **Styliaris<sup>\*</sup>** [\[Quantum (2023)\]](https://doi.org/10.22331/q-2023-05-24-1020)  [\[Perspective on our article by Shane Dooley\]](https://doi.org/10.22331/qv-2023-07-26-75)
-
-
 </br>
 
 ----
@@ -115,11 +77,18 @@ The many-body Hilbert space is large, as it grows *exponentially* with the numbe
 
 ### Selected Publications:
 
+
 </br>
 
 *   *Matrix-product unitaries: Beyond quantum cellular automata,*  
-    **Styliaris**, Trivedi, Pérez-García, Cirac [\[arXiv (2024)\]](https://doi.org/10.48550/arXiv.2406.10195)
+    **Styliaris**, Trivedi, Pérez-García, Cirac [\[Quantum (2025)\]](https://doi.org/10.22331/q-2025-02-25-1645)
 
+</br>
+
+*   *Parent Lindbladians for Matrix Product Density Operators,*
+
+    Liu, Ruiz-de-Alarcón, **Styliaris**, Sun, Pérez-García, Cirac [\[arXiv (2025)\]](https://doi.org/10.48550/arXiv.2501.10552)
+    
 </br>
 
 *   *Typical Correlation Length of Sequentially Generated Tensor Network States,*  
@@ -128,6 +97,44 @@ The many-body Hilbert space is large, as it grows *exponentially* with the numbe
 </br>
 
 ----
+
+</br>
+
+## Exactly solvable quantum states and dynamics
+
+<figure>
+  <img src="/Space_time.png" alt="image" width="700" height="auto">
+  <figcaption>A quantum circuit of space-time quantum channels. Figure from <a href="https://doi.org/10.22331/q-2023-05-24-1020">Quantum (2023)</a>.</figcaption>
+</figure>
+
+</br>
+
+Dual-unitary circuits have emerged as a rich model of quantum dynamics. While this class includes both *integrable and chaotic* models, it allows for the analytical solution of *correlation functions*. The defining property of these circuits is that, when the role of *space and time is exchanged*, the corresponding evolution remains physical, i.e., unitary.
+
+No realistic quantum system is perfectly isolated. Fortunately, it turns out that the ideas of dual-unitarity can be extended to the realm of open systems. Here we explore how, by postulating the analogous symmetry between space and time, *solvability is extended to quantum channels*.
+
+The same ideas allow to define a nontrivial subclass of 2D tensor-network states with exactly solvable single and 2-body correlation functions. The connection can be understood by interpreting the tensor-network contraction as evolution over the virtual space.
+
+</br>
+
+### Selected Publications:
+
+</br>
+
+*   *Dual-isometric Projected Entangled Pair States,*  
+    Yu, Cirac, Kos<sup>*</sup>, **Styliaris<sup>\*</sup>** [\[PRL (2024)\]](https://journals.aps.org/prl/accepted/33071Y7cFd81329590089116f7a025c305b9efdc0)
+    
+</br>
+
+*   *Circuits of space and time quantum channels,*  
+    Kos<sup>*</sup>, **Styliaris<sup>\*</sup>** [\[Quantum (2023)\]](https://doi.org/10.22331/q-2023-05-24-1020)  [\[Perspective on our article by Shane Dooley\]](https://doi.org/10.22331/qv-2023-07-26-75)
+
+
+</br>
+
+----
+
+
 
 </br>
 
@@ -151,7 +158,7 @@ Quantum information offers a *powerful language* for understanding quantum pheno
 </br>
 
 *   *Accuracy guarantees and quantum advantage in analogue open quantum simulation with and without noise,*  
-    Kashyap, **Styliaris**, Mouradian, Cirac, Trivedi [\[arXiv (2024)\]](https://doi.org/10.48550/arXiv.2404.11081)
+    Kashyap, **Styliaris**, Mouradian, Cirac, Trivedi [\[PRX (2025)\]](https://journals.aps.org/prx/accepted/64071Ke6Ebe1f30bc85b6de6a6d889a50f914592c)
 
 </br>
 
