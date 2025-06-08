@@ -99,7 +99,7 @@ social:
 #      header: true
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=gO5vs3EAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=h-Pis-oAAAAJ&hl=en&oi=ao
   - icon: arxiv
     icon_pack: ai
     link: https://arxiv.org/a/styliaris_g_1.html    
@@ -125,6 +125,8 @@ highlight_name: true
 ---
 
 I am a post-doc in the group of [Ignacio Cirac](https://www.mpq.mpg.de/6497409/prof-dr-ignacio-cirac) at [MPQ](https://www.mpq.mpg.de/en) in Munich.
+
+From September 2025, I will be an **[MCQST START Fellow](https://www.mcqst.de/support/start-fellowship/)** hosted at MPQ.
 
 I am a theoretical physicist working on the interface of **quantum information theory** and **many-body physics**.
 

@@ -157,6 +157,11 @@ Quantum information offers a *powerful language* for understanding quantum pheno
 
 </br>
 
+*   *Adiabatic quantum state preparation in integrable models,*  
+    Lutz, Piroli, **Styliaris**, Cirac [\[arXiv (2025)\]](https://doi.org/10.48550/arXiv.2503.21741)
+
+</br>
+
 *   *Accuracy guarantees and quantum advantage in analogue open quantum simulation with and without noise,*  
     Kashyap, **Styliaris**, Mouradian, Cirac, Trivedi [\[PRX (2025)\]](https://journals.aps.org/prx/accepted/64071Ke6Ebe1f30bc85b6de6a6d889a50f914592c)
 
