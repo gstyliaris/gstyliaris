@@ -124,7 +124,7 @@ highlight_name: true
 
 ---
 
-I am a [START Fellow](https://www.mcqst.de/support/start-fellowship/), supported by an MCQST starting grant (Sep 2025--Aug 2027) to establish an independent research group. I am hosted at the [Max Plank Institute for Quantum Optics](https://www.mpq.mpg.de/en) in the [Theory Division](https://www.mpq-theory.de/), led by [Ignacio Cirac](https://www.mpq.mpg.de/6497409/prof-dr-ignacio-cirac).
+I am a [START Fellow](https://www.mcqst.de/support/start-fellowship/), supported by an MCQST starting grant (Sep 2025--Aug 2027) to establish an independent research group. I am hosted in the [Theory Division](https://www.mpq-theory.de/) of the [Max Plank Institute for Quantum Optics](https://www.mpq.mpg.de/en), led by [Ignacio Cirac](https://www.mpq.mpg.de/6497409/prof-dr-ignacio-cirac).
 
 I am a theoretical physicist working on the interface of **quantum information theory** and **many-body physics**.
 
