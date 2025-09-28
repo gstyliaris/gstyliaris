@@ -1,3 +1,7 @@
 baseURL = 'https://example.com/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+
+[imaging]
+quality = 90
+hint = "photo"

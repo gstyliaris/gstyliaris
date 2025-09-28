@@ -22,6 +22,12 @@ The problem of state preparation is evidently motivated by the *practical need* 
 
 ### Selected Publications:
 
+
+</br>
+
+*   *Adiabatic quantum state preparation in integrable models,*  
+    Lutz, Piroli, **Styliaris**, Cirac [\[arXiv (2025)\]](https://doi.org/10.48550/arXiv.2503.21741)
+    
 </br>
 
 *   *Phases of Matrix Product States with Symmetric Quantum Circuits and Symmetric Measurements with Feedforward,*  
@@ -45,7 +51,7 @@ The problem of state preparation is evidently motivated by the *practical need* 
 </br>
 
 *   *Preparation of Matrix Product States with Log-Depth Quantum Circuits,*  
-    Malz<sup>\*</sup>, **Styliaris<sup>\*</sup>**, Wei<sup>\*</sup>, Cirac [\[PRL (2024)\]](https://doi.org/10.1103/PhysRevLett.132.040404)
+    Malz\*, **Styliaris\***, Wei\*, Cirac [\[PRL (2024)\]](https://doi.org/10.1103/PhysRevLett.132.040404)
     [\[Talk at TQC 2024 @OIST\]](https://www.youtube.com/watch?v=kIUDV3AvuiM&t=3600s)
   
 </br>
@@ -77,6 +83,10 @@ The many-body Hilbert space is large, as it grows *exponentially* with the numbe
 
 ### Selected Publications:
 
+</br>
+
+*   *Quantum Circuit Complexity of Matrix-Product Unitaries,*  
+    **Styliaris\***, Trivedi\*, Cirac [\[arXiv (2025)\]](https://doi.org/10.48550/arXiv.2508.08160)
 
 </br>
 
@@ -121,13 +131,18 @@ The same ideas allow to define a nontrivial subclass of 2D tensor-network states
 
 </br>
 
+*   *Average-computation benchmarking for local expectation values in digital quantum devices,*  
+     Baccari\*, Kos\*, **Styliaris\*** [\[arXiv (2025)\]](https://doi.org/10.48550/arXiv.2507.18708)
+
+</br>
+
 *   *Dual-isometric Projected Entangled Pair States,*  
-    Yu, Cirac, Kos<sup>*</sup>, **Styliaris<sup>\*</sup>** [\[PRL (2024)\]](https://journals.aps.org/prl/accepted/33071Y7cFd81329590089116f7a025c305b9efdc0)
+    Yu, Cirac, Kos\*, **Styliaris\*** [\[PRL (2024)\]](https://journals.aps.org/prl/accepted/33071Y7cFd81329590089116f7a025c305b9efdc0)
     
 </br>
 
 *   *Circuits of space and time quantum channels,*  
-    Kos<sup>*</sup>, **Styliaris<sup>\*</sup>** [\[Quantum (2023)\]](https://doi.org/10.22331/q-2023-05-24-1020)  [\[Perspective on our article by Shane Dooley\]](https://doi.org/10.22331/qv-2023-07-26-75)
+    Kos\*, **Styliaris\*** [\[Quantum (2023)\]](https://doi.org/10.22331/q-2023-05-24-1020)  [\[Perspective on our article by Shane Dooley\]](https://doi.org/10.22331/qv-2023-07-26-75)
 
 
 </br>
@@ -155,10 +170,6 @@ Quantum information offers a *powerful language* for understanding quantum pheno
 
 ### Selected Publications:
 
-</br>
-
-*   *Adiabatic quantum state preparation in integrable models,*  
-    Lutz, Piroli, **Styliaris**, Cirac [\[arXiv (2025)\]](https://doi.org/10.48550/arXiv.2503.21741)
 
 </br>
 

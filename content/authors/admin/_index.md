@@ -17,7 +17,7 @@ last_name: Styliaris
 superuser: true
 
 # Role/position/tagline
-role: Post-Doctoral Researcher
+role: MCQST START Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -124,9 +124,7 @@ highlight_name: true
 
 ---
 
-I am a post-doc in the group of [Ignacio Cirac](https://www.mpq.mpg.de/6497409/prof-dr-ignacio-cirac) at [MPQ](https://www.mpq.mpg.de/en) in Munich.
-
-From September 2025, I will be an **[MCQST START Fellow](https://www.mcqst.de/support/start-fellowship/)** hosted at MPQ.
+I am a [START Fellow](https://www.mcqst.de/support/start-fellowship/), supported by an MCQST starting grant to establish an independent research group. I am hosted at the [Max Plank Institute for Quantum Optics](https://www.mpq.mpg.de/en) in the [Theory Division](https://www.mpq-theory.de/), led by [Ignacio Cirac](https://www.mpq.mpg.de/6497409/prof-dr-ignacio-cirac).
 
 I am a theoretical physicist working on the interface of **quantum information theory** and **many-body physics**.
 
