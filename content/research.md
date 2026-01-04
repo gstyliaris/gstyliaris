@@ -15,7 +15,7 @@
 
 Measurements are often solely thought of as means to extract information from a quantum state. However, measurement can also be used as an *active ingredient* in quantum protocols. This line of work explores how the resources (such as circuit depth) needed to transform a given state to a target one can be *drastically reduced* by utilizing measurements.
 
-The problem of state preparation is evidently motivated by the *practical need* to prepare states in quantum devices, e.g., for quantum computing and simulation. However, it also has a more *fundamental flavor* to it since it connects to the classification of topological phases. It turns out that measurements can significantly lower the complexity for the preparation of states, which implies that certain *topological phases collapse* when measurements are considered.
+The problem of state preparation is evidently motivated by the *practical need* to prepare states in quantum devices, e.g., for quantum computing and simulation. However, it also has a more *fundamental flavor* to it since it connects to the classification of phases. It turns out that measurements can significantly lower the complexity for the preparation of states, which implies that certain *topological phases collapse* when measurements are considered.
 
 
 </br>
@@ -52,13 +52,13 @@ The problem of state preparation is evidently motivated by the *practical need* 
 
 *   *Preparation of Matrix Product States with Log-Depth Quantum Circuits,*  
     Malz\*, **Styliaris\***, Wei\*, Cirac [\[PRL (2024)\]](https://doi.org/10.1103/PhysRevLett.132.040404)
-    [\[Talk at TQC 2024 @OIST\]](https://www.youtube.com/watch?v=kIUDV3AvuiM&t=3600s)
+    [\[Talk at TQC 2024\]](https://www.youtube.com/watch?v=kIUDV3AvuiM&t=3600s)
   
 </br>
 
 *   *Quantum Circuits Assisted by Local Operation and Classical Communication: Transformations and Phases of Matter,*  
     Piroli, **Styliaris**, Cirac [\[PRL (2021)\]](https://doi.org/10.1103/PhysRevLett.127.220503)
-     [\[Talk at QIP 2022 @Caltech\]](https://youtu.be/mct_FB3O-Ms?si=vyQbgSB3A_uF7tLR)
+     [\[Talk at QIP 2022\]](https://youtu.be/mct_FB3O-Ms?si=vyQbgSB3A_uF7tLR)
      
 </br>
 
@@ -76,7 +76,7 @@ The problem of state preparation is evidently motivated by the *practical need* 
 
 </br>
 
-The many-body Hilbert space is large, as it grows *exponentially* with the number of constituents \[*"no one can hear you scream there"*, as I learned from [Todd Brun](https://viterbi.usc.edu/directory/faculty/Brun/Todd)\]. However, when interactions are local, the corresponding low-energy eigenstates are *captured by tensor-networks*. This not only allows for an *efficient* description of the relevant quantum states, but also provides a general framework for many-body physics, in the *language of quantum information*.
+The many-body Hilbert space is large, as it grows *exponentially* with the number of constituents \[*"no one can hear you scream there"*, as I learned from [Todd Brun](https://viterbi.usc.edu/directory/faculty/Brun/Todd)\]. However, when interactions are local, the corresponding low-energy physics is *captured by tensor-networks*. This not only allows for an *efficient* description of the relevant quantum states and operations, but also provides a general framework for many-body physics, in the *language of quantum information*.
 
 </br>
 
@@ -85,8 +85,8 @@ The many-body Hilbert space is large, as it grows *exponentially* with the numbe
 
 </br>
 
-*   *Quantum Circuit Complexity of Matrix-Product Unitaries,*  
-    **Styliaris\***, Trivedi\*, Cirac [\[arXiv (2025)\]](https://doi.org/10.48550/arXiv.2508.08160)
+*   *Quantum Circuits for Matrix-Product Unitaries,*  
+    **Styliaris\***, Trivedi\*, Cirac [\[PRL (2025)\]](https://doi.org/10.1103/yshb-hmml)  [\[Talk at QIP 2026\]](https://qip2026.lu.lv/)
 
 </br>
 
@@ -96,7 +96,6 @@ The many-body Hilbert space is large, as it grows *exponentially* with the numbe
 </br>
 
 *   *Parent Lindbladians for Matrix Product Density Operators,*
-
     Liu, Ruiz-de-Alarcón, **Styliaris**, Sun, Pérez-García, Cirac [\[arXiv (2025)\]](https://doi.org/10.48550/arXiv.2501.10552)
     
 </br>
@@ -114,16 +113,16 @@ The many-body Hilbert space is large, as it grows *exponentially* with the numbe
 
 <figure>
   <img src="/Space_time.png" alt="image" width="700" height="auto">
-  <figcaption>A quantum circuit of space-time quantum channels. Figure from <a href="https://doi.org/10.22331/q-2023-05-24-1020">Quantum (2023)</a>.</figcaption>
+  <figcaption>A quantum circuit of spacetime quantum channels. Figure from <a href="https://doi.org/10.22331/q-2023-05-24-1020">Quantum (2023)</a>.</figcaption>
 </figure>
 
 </br>
 
 Dual-unitary circuits have emerged as a rich model of quantum dynamics. While this class includes both *integrable and chaotic* models, it allows for the analytical solution of *correlation functions*. The defining property of these circuits is that, when the role of *space and time is exchanged*, the corresponding evolution remains physical, i.e., unitary.
 
-No realistic quantum system is perfectly isolated. Fortunately, it turns out that the ideas of dual-unitarity can be extended to the realm of open systems. Here we explore how, by postulating the analogous symmetry between space and time, *solvability is extended to quantum channels*.
+No realistic quantum system is perfectly isolated. Fortunately, it turns out that the ideas of dual-unitarity can be extended to the realm of open systems. This is achieved by postulating the analogous symmetry between space and time (what we dubbed *spacetime quantum channels*), giving rise to a rich class of *exactly solvable open-system dynamics*.
 
-The same ideas allow to define a nontrivial subclass of 2D tensor-network states with exactly solvable single and 2-body correlation functions. The connection can be understood by interpreting the tensor-network contraction as evolution over the virtual space.
+We have explored implications of this framework for tensor networks and quantum computation. Spacetime channels give rise to a large class of 2D tensor-network states with exactly solvable single and two-body correlation functions. In general, this problem is known to be intractable. In quantum computing, spacetime channels can be turned into practically relevant *benchmarking schemes* by *averaging* variants of the (otherwise arbitrary) target computation. The resulting average quantum computation can be probed classically, while its individual instances could remain hard.
 
 </br>
 
