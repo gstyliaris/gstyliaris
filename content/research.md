@@ -26,7 +26,7 @@ The problem of state preparation is evidently motivated by the *practical need* 
 </br>
 
 *   *Adiabatic quantum state preparation in integrable models,*  
-    Lutz, Piroli, **Styliaris**, Cirac [\[arXiv (2025)\]](https://doi.org/10.48550/arXiv.2503.21741)
+    Lutz, Piroli, **Styliaris**, Cirac [\[Quantum (2026)\]](https://doi.org/10.22331/q-2026-03-18-2032)
     
 </br>
 
