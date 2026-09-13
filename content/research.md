@@ -15,24 +15,13 @@
 
 Measurements are often solely thought of as means to extract information from a quantum state. However, measurement can also be used as an *active ingredient* in quantum protocols. This line of work explores how the resources (such as circuit depth) needed to transform a given state to a target one can be *drastically reduced* by utilizing measurements.
 
-The problem of state preparation is evidently motivated by the *practical need* to prepare states in quantum devices, e.g., for quantum computing and simulation. However, it also has a more *fundamental flavor* to it since it connects to the classification of phases. It turns out that measurements can significantly lower the complexity for the preparation of states, which implies that certain *topological phases collapse* when measurements are considered.
+The problem of state preparation is evidently motivated by the *practical need* to prepare states in quantum devices, e.g., for quantum computing and simulation. However, it also has a more *fundamental flavor* to it since it naturally connects to the classification of topological phases.
 
 
 </br>
 
 ### Selected Publications:
 
-
-</br>
-
-*   *Adiabatic quantum state preparation in integrable models,*  
-    Lutz, Piroli, **Styliaris**, Cirac [\[Quantum (2026)\]](https://doi.org/10.22331/q-2026-03-18-2032)
-    
-</br>
-
-*   *Phases of Matrix Product States with Symmetric Quantum Circuits and Symmetric Measurements with Feedforward,*  
-    Gunn, **Styliaris**, Kraft, Kraus
-    [\[PRB (2025)\]](https://journals.aps.org/prb/accepted/b507cDdeA6b1910000c96b65ac150201fc7292425)
 
 </br>
 
@@ -62,6 +51,14 @@ The problem of state preparation is evidently motivated by the *practical need* 
      
 </br>
 
+### Review Article:
+
+</br>
+
+*   *From Bits to Qubits: The Theory and Practice of Quantum Data Encoding,*  
+    Zhang\*, Rattew\*, Wu, **Styliaris**, Sun, Koczor, Yuan [\[arXiv (2026)\]](https://doi.org/10.48550/arXiv.2609.08058)
+
+
 ----
 
 </br>
@@ -85,6 +82,11 @@ The many-body Hilbert space is large, as it grows *exponentially* with the numbe
 
 </br>
 
+*   *Structure and Classification of Matrix Product Quantum Channels,*  
+    Stucchi, Cirac, Trivedi, **Styliaris** [\[PRL (2026)\]](https://journals.aps.org/prl/accepted/10.1103/4216-bgrp)
+
+</br>
+
 *   *Quantum Circuits for Matrix-Product Unitaries,*  
     **Styliaris\***, Trivedi\*, Cirac [\[PRL (2025)\]](https://doi.org/10.1103/yshb-hmml)  [\[Talk at QIP 2026\]](https://qip2026.lu.lv/)
 
@@ -92,11 +94,6 @@ The many-body Hilbert space is large, as it grows *exponentially* with the numbe
 
 *   *Matrix-product unitaries: Beyond quantum cellular automata,*  
     **Styliaris**, Trivedi, Pérez-García, Cirac [\[Quantum (2025)\]](https://doi.org/10.22331/q-2025-02-25-1645)
-
-</br>
-
-*   *Parent Lindbladians for Matrix Product Density Operators,*
-    Liu, Ruiz-de-Alarcón, **Styliaris**, Sun, Pérez-García, Cirac [\[arXiv (2025)\]](https://doi.org/10.48550/arXiv.2501.10552)
     
 </br>
 
@@ -128,10 +125,16 @@ We have explored implications of this framework for tensor networks and quantum 
 
 ### Selected Publications:
 
+
 </br>
 
 *   *Average-computation benchmarking for local expectation values in digital quantum devices,*  
-     Baccari\*, Kos\*, **Styliaris\*** [\[arXiv (2025)\]](https://doi.org/10.48550/arXiv.2507.18708)
+     Baccari\*, Kos\*, **Styliaris\*** [\[PR Research (Letter) (2026)\]](https://doi.org/10.48550/arXiv.2507.18708)
+
+</br>
+
+*   *Adiabatic quantum state preparation in integrable models,*  
+    Lutz, Piroli, **Styliaris**, Cirac [\[Quantum (2026)\]](https://doi.org/10.22331/q-2026-03-18-2032)
 
 </br>
 
