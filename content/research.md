@@ -58,6 +58,7 @@ The problem of state preparation is evidently motivated by the *practical need* 
 *   *From Bits to Qubits: The Theory and Practice of Quantum Data Encoding,*  
     Zhang\*, Rattew\*, Wu, **Styliaris**, Sun, Koczor, Yuan [\[arXiv (2026)\]](https://doi.org/10.48550/arXiv.2609.08058)
 
+</br>
 
 ----
 
