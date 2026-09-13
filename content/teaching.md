@@ -7,7 +7,7 @@
 ## Novel Methods in Quantum State Preparation
 
 <figure>
-  <img src="/GHZ_circuit.png" alt="image" width="500" height="auto">
+  <img src="/GHZ_circuit.png" alt="image" width="300" height="auto">
   <figcaption>Preparing a GHZ state in constant depth using measurements. Figure from <a href="https://doi.org/10.48550/arXiv.2609.08058">arXiv (2026)</a>.</figcaption>
 </figure>
 
