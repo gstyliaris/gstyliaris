@@ -22,7 +22,7 @@
 </br>
 
 *   [Lecture notes](https://drive.google.com/file/d/1181UrTF-p4JcNbFenCPEmmoUISSsKYrz/view?usp=share_link)
-*   [Video Recordings](https://www.youtube.com/watch?v=CM5QcPr0oLo)
+*   [Video recordings](https://www.youtube.com/watch?v=CM5QcPr0oLo)
 
 
 ----
