@@ -15,7 +15,7 @@
 
 Measurements are often solely thought of as means to extract information from a quantum state. However, measurement can also be used as an *active ingredient* in quantum protocols. This line of work explores how the resources (such as circuit depth) needed to transform a given state to a target one can be *drastically reduced* by utilizing measurements.
 
-The problem of state preparation is evidently motivated by the *practical need* to prepare states in quantum devices, e.g., for quantum computing and simulation. However, it also has a more *fundamental flavor* to it since it naturally connects to the classification of topological phases.
+The problem of state preparation is evidently motivated by the *practical need* to prepare states in quantum devices, e.g., for quantum computing and simulation. However, it also has a more *fundamental flavor* to it since it naturally connects to the classification of topological phases and quantum error correction.
 
 
 </br>
@@ -25,16 +25,15 @@ The problem of state preparation is evidently motivated by the *practical need* 
 
 </br>
 
-*   *Characterizing MPS and PEPS Preparable via Measurement and Feedback,*  
-    Zhang, Gopalakrishnan, **Styliaris**
-    [\[PRX Quantum (2024)\]](https://doi.org/10.1103/PRXQuantum.5.040304)
-
+*   *Measurement and feedforward circuits from quantum error correcting codes,*  
+    **Styliaris\***, Trivedi\*
+    [\[arXiv (2026)\]](https://doi.org/10.48550/arXiv.2609.39764)
 
 </br>
 
-*   *Approximating many-body quantum states with quantum circuits and measurements,*  
-    Piroli, **Styliaris**, Cirac
-    [\[PRL (2024)\]](https://journals.aps.org/prl/accepted/8f07aY05E9e18f84042543493780b9c85f774fc18)
+*   *Characterizing MPS and PEPS Preparable via Measurement and Feedback,*  
+    Zhang, Gopalakrishnan, **Styliaris**
+    [\[PRX Quantum (2024)\]](https://doi.org/10.1103/PRXQuantum.5.040304)
 
 
 </br>
@@ -80,6 +79,12 @@ The many-body Hilbert space is large, as it grows *exponentially* with the numbe
 
 
 ### Selected Publications:
+
+</br>
+
+*   *Nonstabilizerness of quantum tensor network states is intractable in two dimensions,*  
+    Esposito, **Styliaris**
+    [\[arXiv (2026)\]](https://doi.org/10.48550/arXiv.2609.31459)
 
 </br>
 
